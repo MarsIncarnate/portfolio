@@ -12,7 +12,7 @@ This is the [link]() to the Github repo of the project
 
 ## Hosting Website
 
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+A live demo is already available via this [link](https://marsincarnate.github.io/developer_portfolio)
 
 ## Tech Stack
 
