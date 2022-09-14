@@ -8,7 +8,7 @@ Adeogun Marvellous' portfolio website.
 
 ## Github repo
 
-This is the [link](https://github.com/MarsIncarnate/developer_portfolio) to the Github repo of the project
+This is the [link](https://github.com/MarsIncarnate/portfolio) to the Github repo of the project
 
 ## Hosting Website
 
